@@ -12,9 +12,9 @@ Tabela de conteúdos
 
 ## 🛠 Tecnologias utilizadas
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white">
+<img src="https://icon-icons.com/pt/download/170805/PNG/512/#google_vignette"> 
 
-<i class="fa-brands fa-html5"></i> HTML;<br>
-<i class="fa-brands fa-css3"></i> CSS;<br>
-<i class="fa-brands fa-js"></i> JavaScript;<br>
-<i class="fa-brands fa-react"></i> React.
 
