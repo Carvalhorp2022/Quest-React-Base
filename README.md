@@ -15,6 +15,7 @@ Tabela de conteúdos
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white">
-<img src="https://icon-icons.com/pt/download/170805/PNG/512/#google_vignette"> 
+<img src="./public/logo192.png">
+<img src="./public/vite.svg"> 
 
 
